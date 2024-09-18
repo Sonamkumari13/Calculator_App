@@ -1,5 +1,5 @@
 # Calculator
-A very basic calculator application created using Java **Flutter**.
+A very basic calculator application created using **Flutter**.
 
 ## Thank You!
 Please ⭐️ this repo and share it with others
@@ -8,7 +8,9 @@ Please ⭐️ this repo and share it with others
 [Calculator video.mp4](..%2FCalculator%20video.mp4)
 
 ## Technologies Used 
-*Framework: Flutter
-*Programming Language: Dart
-*IDE: Android Studio.
+Framework: Flutter
+
+Programming Language: Dart
+
+IDE: Android Studio.
 
