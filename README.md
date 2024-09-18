@@ -5,7 +5,7 @@ A very basic calculator application created using **Flutter**.
 Please ⭐️ this repo and share it with others
 
 ## Video
-[Calculator video.mp4](..%2FCalculator%20video.mp4)
+[Calculator video.mp4](Calculator%20video.mp4)
 
 ## Technologies Used 
 Framework: Flutter
